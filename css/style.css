@@ -1,0 +1,13 @@
+h1{
+  color: black;
+  width: max-content;
+  margin: auto;
+}
+
+Body{
+  background-color: gray; 
+  color:black;
+}
+ul{
+  margin-bottom: 100px;
+}
