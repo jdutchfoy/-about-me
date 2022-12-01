@@ -50,4 +50,6 @@ if(fifthQuestion === 'yes'|| fifthQuestion === 'y'){
     break
   }
 
-}
+  alert(`The number I picked was ${myNum}`);
+
+  alert(`Thats the snapshot of me ${userName}, have a great day);
